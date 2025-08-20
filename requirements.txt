@@ -1,4 +1,4 @@
-Django==4.2.0  
+Django==4.2.14  
 djangorestframework==3.14.0  
 django-cors-headers==4.0.0  
 psycopg2-binary==2.9.10 --only-binary=:all:  
@@ -7,5 +7,6 @@ openai==0.27.8
 requests==2.31.0  
 supabase==1.0.3  
 gunicorn==21.2.0
+
 
 
